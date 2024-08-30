@@ -1,5 +1,5 @@
 {
-  "name": "csfr-next",
+  "name": "csfrnext",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,10 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.7"
+    "next": "14.2.7",
+    "zsa": "^0.3.5",
+    "zsa-react": "^0.1.6",
+    "zsa-react-query": "^0.1.1"
   },
   "devDependencies": {
     "typescript": "^5",
